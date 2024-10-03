@@ -4,3 +4,12 @@
     <span class="flex justify-center text-gray-500">webmaster@thatguysemail.com</span>
   </div>
 </template>
+
+<script setup lang="ts">
+
+useHead({
+  title: "That guys email"
+})
+
+</script>
+
